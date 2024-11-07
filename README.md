@@ -1,2 +1,1 @@
-# twrp-device_infinix_Infinix-X6881
-Infinix Hot 50 Pro 4G
+## OrangeFox Recovery tree for Infinix Hot 50 Pro 4G ( Infinix-X6881 )
